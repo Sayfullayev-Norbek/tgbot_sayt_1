@@ -1,0 +1,35 @@
+.container{
+     width: 1140px;
+     margin: 0 auto;
+ }
+ h3{
+     margin: 50px 450px;
+     align-items: center;
+ }
+ form{
+     margin: 40px 350px;
+     text-align: center;
+     border: 2px solid red;
+     padding: 20px;
+ }
+ form label{
+     font-size: 22px;
+     font-weight: 600;
+ }
+ form input{
+     font-size: 20px;
+     margin: 20px;
+ }
+ form button{
+     margin: 20px;
+     padding: 10px 15px;
+     border-radius: 10px;
+     background: rgba(101, 10, 10, 0.718);
+     cursor: pointer;
+ }
+ form button:hover{
+     transition: 1s;
+     background-color: red;
+     text-decoration: none;
+     
+ }
