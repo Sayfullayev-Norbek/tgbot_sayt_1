@@ -1,5 +1,5 @@
 <?php
-     // https://api.telegram.org/bot5736616313:AAHhpHuGacVt9Y0VXvD1ArO-GswQzZqptTw/getUpdates
+     // https://api.telegram.org/bot5736616313:AAHhpHhgfghfGacVt9Y0VXvD1ArO-GswQzZqptTw/getUpdates
 
      $name = $_POST['name'];
      $lastname = $_POST['lastname'];
