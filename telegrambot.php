@@ -8,7 +8,7 @@
 
      $token = "5736616313:AAHhpHuGacVt9Y0VXvD1ArO-GswQzZqptTw";
 
-     $chat_d = 174438708;
+     $chat_d = 234234234;
 
 
      $array = array(
